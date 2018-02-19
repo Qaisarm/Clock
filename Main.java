@@ -16,6 +16,6 @@ minute = in.nextInt();
     System.out.println(clock.getTime());
     clock.setTime (12, 30);
     System.out.println(clock.getTime());
-
+    System.out.print
   }
 }
